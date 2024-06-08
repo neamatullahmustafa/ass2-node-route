@@ -1,0 +1,62 @@
+
+          [{
+               "Id": 1,
+               "Name": "Introduction to Computer Science",
+               "Content": "Basic concepts of computer science, including algorithms, programming, and data structures.",
+               "DepartmentId": 1
+          },
+          {
+               "Id": 2,
+               "Name": "Calculus I",
+               "Content": "Fundamental concepts of calculus, including limits, derivatives, and integrals.",
+               "DepartmentId": 2
+          },
+          {
+               "Id": 3,
+               "Name": "Introduction to Psychology",
+               "Content": "Overview of psychological concepts, including behavior, cognition, and emotion.",
+               "DepartmentId": 3
+          },
+          {
+               "Id": 4,
+               "Name": "Organic Chemistry",
+               "Content": "Structure, properties, and reactions of organic compounds.",
+               "DepartmentId": 4
+          },
+          {
+               "Id": 5,
+               "Name": "Physics I",
+               "Content": "Basic principles of physics, including mechanics and thermodynamics.",
+               "DepartmentId": 5
+          },
+          {
+               "Id": 6,
+               "Name": "World History",
+               "Content": "Survey of major events and themes in world history.",
+               "DepartmentId": 6
+          },
+          {
+               "Id": 7,
+               "Name": "Biology 101",
+               "Content": "Introduction to biological principles and concepts.",
+               "DepartmentId": 7
+          },
+          {
+               "Id": 8,
+               "Name": "Introduction to Economics",
+               "Content": "Basic principles of microeconomics and macroeconomics.",
+               "DepartmentId": 8
+          },
+          {
+               "Id": 9,
+               "Name": "Introduction to Philosophy",
+               "Content": "Examination of fundamental philosophical questions and theories.",
+               "DepartmentId": 9
+          },
+          {
+               "Id": 10,
+               "Name": "English Literature",
+               "Content": "Study of English literature from various periods and genres.",
+               "DepartmentId": 10
+          }
+     ]

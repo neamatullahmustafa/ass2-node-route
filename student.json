@@ -1,0 +1,65 @@
+[
+     {
+          "Id": 2,
+          "Name": "Alice Smith",
+          "Email": "alice@example.com",
+          "Password": "pass456",
+          "DepartmentId": 2
+     },
+     {
+          "Id": 3,
+          "Name": "Bob Johnson",
+          "Email": "bob@example.com",
+          "Password": "abcdef",
+          "DepartmentId": 1
+     },
+     {
+          "Id": 4,
+          "Name": "Emma Watson",
+          "Email": "emma@example.com",
+          "Password": "qwerty",
+          "DepartmentId": 3
+     },
+     {
+          "Id": 5,
+          "Name": "Michael Brown",
+          "Email": "michael@example.com",
+          "Password": "123456",
+          "DepartmentId": 2
+     },
+     {
+          "Id": 6,
+          "Name": "Sophia Garcia",
+          "Email": "sophia@example.com",
+          "Password": "sophia123",
+          "DepartmentId": 1
+     },
+     {
+          "Id": 7,
+          "Name": "Daniel Martinez",
+          "Email": "daniel@example.com",
+          "Password": "daniel456",
+          "DepartmentId": 3
+     },
+     {
+          "Id": 8,
+          "Name": "Olivia Rodriguez",
+          "Email": "olivia@example.com",
+          "Password": "olivia789",
+          "DepartmentId": 2
+     },
+     {
+          "Id": 9,
+          "Name": "James Lee",
+          "Email": "james@example.com",
+          "Password": "james321",
+          "DepartmentId": 1
+     },
+     {
+          "Id": 10,
+          "Name": "Emily Taylor",
+          "Email": "emily@example.com",
+          "Password": "emily123",
+          "DepartmentId": 3
+     }
+]

@@ -1,0 +1,42 @@
+[
+          {
+               "Id": 1,
+               "Name": "Computer Science"
+          },
+          {
+               "Id": 2,
+               "Name": "Mathematics"
+          },
+          {
+               "Id": 3,
+               "Name": "Psychology"
+          },
+          {
+               "Id": 4,
+               "Name": "Chemistry"
+          },
+          {
+               "Id": 5,
+               "Name": "Physics"
+          },
+          {
+               "Id": 6,
+               "Name": "History"
+          },
+          {
+               "Id": 7,
+               "Name": "Biology"
+          },
+          {
+               "Id": 8,
+               "Name": "Economics"
+          },
+          {
+               "Id": 9,
+               "Name": "Philosophy"
+          },
+          {
+               "Id": 10,
+               "Name": "English"
+          }
+     ]
